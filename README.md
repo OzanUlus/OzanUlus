@@ -18,6 +18,7 @@ I am on the path to becoming a passionate professional in software development. 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="50" /> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" /> 
 <img src="https://dataera.com.tr/wp-content/uploads/2018/07/mssql-logo-1.jpg" alt="MySQL" width="50" /> 
+<img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png" alt="MySQL" width="50" /> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="50" /> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Mongodb-ar21.svg/120px-Mongodb-ar21.svg.png?20230427111848" alt="MongoDB" width="50" /> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Logo-redis.svg/512px-Logo-redis.svg.png?20210820223643" alt="Redis" width="50" /> 
