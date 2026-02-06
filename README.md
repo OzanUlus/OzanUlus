@@ -32,7 +32,7 @@ What motivates me is producing innovative solutions and solving complex problems
 
 ## 🔗 Contact Me  
 
-- 🌐 **Website:** https://www.ozanulus.com.tr  
+- 🌐 **Website:** https://ozanulus.com.tr
 - 🔗 **LinkedIn:** [linkedin.com/in/ozan-ulus](https://www.linkedin.com/in/ozan-ulus/)  
 - 📧 **Email:** ilkerozanulus@gmail.com  
 
